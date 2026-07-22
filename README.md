@@ -1,2 +1,2 @@
 # VaR-model-validation
-This is a project that helps to learn the Var-model-validation
+Backtesting framework for VaR and Expected Shortfall models in R — historical simulation, parametric (normal / Student-t), and Monte Carlo, evaluated with Kupiec POF and Christoffersen conditional coverage tests.
